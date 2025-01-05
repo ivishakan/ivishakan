@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vishakan U S</h1>
-<h3 align="center">An AI ML Engineer living at Dallas, USA. Originally from India.</h3>
+<h3 align="center">An AI ML Engineer living at Dallas, USA 🇺🇸. Originally from India 🇮🇳.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivishakan&label=Profile%20views&color=0e75b6&style=flat" alt="ivishakan" /> </p>
 
