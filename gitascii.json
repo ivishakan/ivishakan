@@ -16,7 +16,8 @@
       "config": {
         "animationType": "fade-in",
         "animationPreviewKey": 11,
-        "accentColor": "#c5ff4a"
+        "accentColor": "#c5ff4a",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -11527,7 +11528,9 @@
         "stagger": 0.05,
         "rowDur": 0.05,
         "customWhoami": "Vish",
-        "textColor": "#c5ff4a"
+        "textColor": "#c5ff4a",
+        "backgroundColor": "transparent",
+        "borderColor": "#212830"
       },
       "locked": false,
       "visible": true,
@@ -11553,7 +11556,9 @@
         "customBackend": "FastAPI, Pydantic, Docker, Microservices, Qdrant",
         "customBullet1": "Linkedin Top Voice AI",
         "showBullet2": false,
-        "customLoc": "Houston 🇺🇸"
+        "customLoc": "Houston 🇺🇸",
+        "backgroundColor": "transparent",
+        "borderColor": "#212830"
       },
       "locked": false,
       "visible": true,
@@ -11606,7 +11611,7 @@
         ],
         "animationType": "fade-in",
         "animationPreviewKey": 10,
-        "backgroundColor": "transparent",
+        "backgroundColor": "github-auto",
         "borderColor": "transparent"
       },
       "locked": false,
@@ -11637,7 +11642,8 @@
           "#e894ef"
         ],
         "staticMode": true,
-        "showTitle": true
+        "showTitle": true,
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -11657,7 +11663,8 @@
       },
       "config": {
         "titleLine1": "Building AI",
-        "card2Text": "leadership | Culture"
+        "card2Text": "leadership | Culture",
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -11693,7 +11700,8 @@
         "detail": "ultra",
         "cols": 150,
         "animationType": "none",
-        "animationPreviewKey": 2
+        "animationPreviewKey": 2,
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -11710,7 +11718,7 @@
     "padding": 24,
     "themeMode": "dark",
     "templateStyle": "blank",
-    "transparentBackground": false
+    "transparentBackground": true
   },
   "templateId": "blank",
   "profileSlug": "default"
