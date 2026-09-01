@@ -17,7 +17,7 @@
         "animationType": "fade-in",
         "animationPreviewKey": 11,
         "accentColor": "#c5ff4a",
-        "backgroundColor": "transparent"
+        "backgroundColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -11529,7 +11529,7 @@
         "rowDur": 0.05,
         "customWhoami": "Vish",
         "textColor": "#c5ff4a",
-        "backgroundColor": "transparent",
+        "backgroundColor": "github-auto",
         "borderColor": "#212830"
       },
       "locked": false,
@@ -11557,7 +11557,7 @@
         "customBullet1": "Linkedin Top Voice AI",
         "showBullet2": false,
         "customLoc": "Houston 🇺🇸",
-        "backgroundColor": "transparent",
+        "backgroundColor": "github-auto",
         "borderColor": "#212830"
       },
       "locked": false,
@@ -11612,7 +11612,7 @@
         "animationType": "fade-in",
         "animationPreviewKey": 10,
         "backgroundColor": "github-auto",
-        "borderColor": "transparent"
+        "borderColor": "github-auto"
       },
       "locked": false,
       "visible": true,
@@ -11643,7 +11643,8 @@
         ],
         "staticMode": true,
         "showTitle": true,
-        "backgroundColor": "github-auto"
+        "backgroundColor": "github-auto",
+        "borderColor": "github-auto"
       },
       "locked": false,
       "visible": true,
